@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouponFlowTestProject", "CouponFlowTestProject\CouponFlowTestProject.csproj", "{D29933AD-C0EA-4CF5-AFAF-3104AD7418C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{4E206E61-AC97-4089-93AB-CADA912328B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29933AD-C0EA-4CF5-AFAF-3104AD7418C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29933AD-C0EA-4CF5-AFAF-3104AD7418C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29933AD-C0EA-4CF5-AFAF-3104AD7418C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29933AD-C0EA-4CF5-AFAF-3104AD7418C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E206E61-AC97-4089-93AB-CADA912328B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E206E61-AC97-4089-93AB-CADA912328B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E206E61-AC97-4089-93AB-CADA912328B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E206E61-AC97-4089-93AB-CADA912328B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5369EDD2-CC33-4076-8C8E-35A1F100FE53}
+	EndGlobalSection
+EndGlobal
