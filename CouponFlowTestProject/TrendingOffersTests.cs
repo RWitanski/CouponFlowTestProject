@@ -49,9 +49,9 @@ namespace CouponFlowTestProject
                 .WithHeader("catc-version", "5.0.0")
                 .GetJsonAsync<IEnumerable<Offer>>();
 
-
             var isUnique = result.GroupBy(x => x.DomainName)
                 .Max(x => x.Count()) == 1;
+
             Assert.True(isUnique);
         }
     }
